@@ -6,3 +6,5 @@ may
 june
 
 Hi Sunjo, I am just adding this comment to confirm that I am able to collaborate.
+
+This is confirm to Hope and other teammates than I commited into this file.
